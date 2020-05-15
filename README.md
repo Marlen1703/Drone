@@ -35,15 +35,15 @@ https://www.tinkercad.com/things/40qdZbxW8qR-copy-of-exquisite-migelo/editel?sha
 ### Final view in Tinkercad:
  ![screenshot of sample](https://github.com/Marlen1703/Final_Graphics/blob/master/Images/TinkerCad.jpg)
  # Parts list:
-### Body
+                                            Body
  ![screenshot of sample](https://github.com/Marlen1703/Final_Graphics/blob/master/Images/body.jpg)
  
-### Propeller
+                                            Propeller
  ![screenshot of sample](https://github.com/Marlen1703/Final_Graphics/blob/master/Images/propeller.jpg)
  
-### Legs
+                                            Legs
  ![screenshot of sample](https://github.com/Marlen1703/Final_Graphics/blob/master/Images/legs.jpg)
 
-### Arduino
+                                            Arduino
  ![screenshot of sample](https://github.com/Marlen1703/Final_Graphics/blob/master/Images/arduino.jpg)
 
