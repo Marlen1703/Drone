@@ -1,4 +1,4 @@
-# Description
+# Description:
 Drones have been around for many years, they are used for several different purposes and can be very helpful in many areas. However, drones have become much more popular in recent times, and their application has increased rapidly in various fields. Before we get to this, let’s answer the main question: “what is a drone and how we can define it?”.
 
 The word “drone” has several different meanings, and it originates from the old English word drān, drǣn, which means ‘male bee’. When talking about a drone as an electric device, we are thinking of a missile or a remote-controlled pilotless aircraft.
