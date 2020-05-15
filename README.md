@@ -4,10 +4,15 @@
  
 ### Authors:
 Marlen Ibraimov - main designer;
+
 Daniiar Arkabaev - head of group;
+
 Nuraim Askat kyzy - copywriter,designer;
-Zharkyn Askat kyzy - electronic developer;
+
+Zharkyn Askat kyzy - electronic developer
+
 Ravshan Khamidov - designer;
+
 Komoldin Khuzhamberdiev - assistant; 
  
  
