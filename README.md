@@ -3,12 +3,12 @@
  ![screenshot of sample](https://github.com/Marlen1703/Final_Graphics/blob/master/Images/main.jpg)
  
 ### Authors:
- #### Marlen Ibraimov - main designer;
- #### Daniiar Arkabaev - head of group;
- #### Nuraim Askat kyzy - copywriter,designer;
- #### Zharkyn Askat kyzy - electronic developer;
- #### Ravshan Khamidov - designer;
- #### Komoldin Khuzhamberdiev - assistant; 
+Marlen Ibraimov - main designer;
+Daniiar Arkabaev - head of group;
+Nuraim Askat kyzy - copywriter,designer;
+Zharkyn Askat kyzy - electronic developer;
+Ravshan Khamidov - designer;
+Komoldin Khuzhamberdiev - assistant; 
  
  
 # Links:
