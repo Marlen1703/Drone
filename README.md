@@ -3,17 +3,17 @@
  ![screenshot of sample](https://github.com/Marlen1703/Final_Graphics/blob/master/Images/main.jpg)
  
 ### Authors:
-Marlen Ibraimov - main designer;
+Marlen Ibraimov - Main designer;
 
-Daniiar Arkabaev - head of group;
+Daniiar Arkabaev - Head of group;
 
-Nuraim Askat kyzy - copywriter,designer;
+Nuraim Askat kyzy - Copywriter,designer;
 
-Zharkyn Askat kyzy - electronic developer
+Zharkyn Askat kyzy - Electronic developer
 
-Ravshan Khamidov - designer;
+Ravshan Khamidov - Designer;
 
-Komoldin Khuzhamberdiev - assistant; 
+Komoldin Khuzhamberdiev - Assistant; 
  
  
 # Links:
